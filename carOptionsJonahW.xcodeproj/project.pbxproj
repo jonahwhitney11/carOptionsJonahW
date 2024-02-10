@@ -16,6 +16,9 @@
 		8F411FAC2B716C7A00F8650A /* carOptionsJonahWTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F411FAB2B716C7A00F8650A /* carOptionsJonahWTests.swift */; };
 		8F411FB62B716C7A00F8650A /* carOptionsJonahWUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F411FB52B716C7A00F8650A /* carOptionsJonahWUITests.swift */; };
 		8F411FB82B716C7A00F8650A /* carOptionsJonahWUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F411FB72B716C7A00F8650A /* carOptionsJonahWUITestsLaunchTests.swift */; };
+		8F411FD32B741A8A00F8650A /* redOrange_car.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8F411FD02B741A8A00F8650A /* redOrange_car.jpg */; };
+		8F411FD42B741A8A00F8650A /* Untitled-1_0000_Layer 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8F411FD12B741A8A00F8650A /* Untitled-1_0000_Layer 3.jpg */; };
+		8F411FD52B741A8A00F8650A /* pink_car.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8F411FD22B741A8A00F8650A /* pink_car.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +52,9 @@
 		8F411FB12B716C7A00F8650A /* carOptionsJonahWUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = carOptionsJonahWUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F411FB52B716C7A00F8650A /* carOptionsJonahWUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = carOptionsJonahWUITests.swift; sourceTree = "<group>"; };
 		8F411FB72B716C7A00F8650A /* carOptionsJonahWUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = carOptionsJonahWUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		8F411FD02B741A8A00F8650A /* redOrange_car.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = redOrange_car.jpg; sourceTree = "<group>"; };
+		8F411FD12B741A8A00F8650A /* Untitled-1_0000_Layer 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Untitled-1_0000_Layer 3.jpg"; sourceTree = "<group>"; };
+		8F411FD22B741A8A00F8650A /* pink_car.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pink_car.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +110,9 @@
 				8F411F982B716C7700F8650A /* ViewController.swift */,
 				8F411F9A2B716C7700F8650A /* Main.storyboard */,
 				8F411F9D2B716C7A00F8650A /* Assets.xcassets */,
+				8F411FD22B741A8A00F8650A /* pink_car.jpg */,
+				8F411FD02B741A8A00F8650A /* redOrange_car.jpg */,
+				8F411FD12B741A8A00F8650A /* Untitled-1_0000_Layer 3.jpg */,
 				8F411F9F2B716C7A00F8650A /* LaunchScreen.storyboard */,
 				8F411FA22B716C7A00F8650A /* Info.plist */,
 			);
@@ -231,8 +240,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8F411FD32B741A8A00F8650A /* redOrange_car.jpg in Resources */,
+				8F411FD42B741A8A00F8650A /* Untitled-1_0000_Layer 3.jpg in Resources */,
 				8F411FA12B716C7A00F8650A /* LaunchScreen.storyboard in Resources */,
 				8F411F9E2B716C7A00F8650A /* Assets.xcassets in Resources */,
+				8F411FD52B741A8A00F8650A /* pink_car.jpg in Resources */,
 				8F411F9C2B716C7700F8650A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
